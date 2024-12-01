@@ -17,7 +17,7 @@ Chào mừng bạn đến với **Happy Bird**! Đây là một trò chơi đơn
 
 Bạn có thể tải mã nguồn của trò chơi từ GitHub hoặc giải nén tệp `.zip` chứa mã nguồn:
 ```bash
-git clone https://github.com/yourusername/happy-bird.git
+git clone https://github.com/TungAnh176/happy-bird.git
 cd happy-bird
 ```
 ## Cài đặt Pygame
