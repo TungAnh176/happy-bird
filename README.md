@@ -41,7 +41,6 @@ pip install -r requirements.txt
 - **Điểm số**: Bạn ghi điểm mỗi khi chim bay qua một ống.
 - **Âm thanh**: Âm thanh vui nhộn khi chim bay và khi ghi điểm.
 - **Hình ảnh động**: Chim có hoạt ảnh bay lên xuống khi nhấn phím **Space**.
-- **Độ khó tăng dần**: Các ống được sinh ra ngẫu nhiên và di chuyển với tốc độ cố định.
 - **Bảng điểm cao**: Lưu lại điểm cao nhất giúp bạn thử thách bản thân mỗi lần chơi.
 
 ## Cảm ơn
