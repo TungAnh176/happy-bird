@@ -13,8 +13,6 @@ Chào mừng bạn đến với **Happy Bird**! Đây là một trò chơi đơn
 - Python 3.x
 - Pygame (cài đặt qua pip)
 
-## Cài đặt Pygame
-
 ## Tải về trò chơi
 
 Bạn có thể tải mã nguồn của trò chơi từ GitHub hoặc giải nén tệp `.zip` chứa mã nguồn:
@@ -22,8 +20,9 @@ Bạn có thể tải mã nguồn của trò chơi từ GitHub hoặc giải né
 git clone https://github.com/yourusername/happy-bird.git
 cd happy-bird
 ```
+## Cài đặt Pygame
 
-##Trước khi bắt đầu, bạn cần cài đặt **Pygame**. Mở terminal và gõ lệnh sau để cài đặt:
+Trước khi bắt đầu, bạn cần cài đặt **Pygame**. Mở terminal và gõ lệnh sau để cài đặt:
 ```bash
 pip install -r requirements.txt
 ```
