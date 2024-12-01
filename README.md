@@ -13,7 +13,7 @@ Chào mừng bạn đến với **Happy Bird**! Đây là một trò chơi đơn
 - Python 3.x
 - Pygame (cài đặt qua pip)
 
-### Cài đặt Pygame
+## Cài đặt Pygame
 
 ## Tải về trò chơi
 
