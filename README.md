@@ -10,7 +10,7 @@ Chào mừng bạn đến với **Happy Bird**! Đây là một trò chơi đơn
 ## Cài đặt
 
 ### Yêu cầu:
-- Python 3.x
+- Python 3.13
 - Pygame (cài đặt qua pip)
 
 ## Tải về trò chơi
